@@ -1,6 +1,6 @@
 # Hey, schön dich kennenzulernen 👋
 
-### Ich bin Calvin, ein 25 Jahre alter Vollblut-entwickler.
+### Ich bin Calvin, ein 26 Jahre alter Vollblut-entwickler.
 
 Mir wurde schon früh ein PC in die Hand gedrückt, weswegen ich Windows wie meine Westentasche kenne. Meine ersten Anläufe zum Programmieren waren Batch-scripte, da war ich keine 10. Aus den Scripten haben sich dann ziemlich komplexe Programme entwickelt, für die ich irgendwann eine neue Programmiersprache gefunden habe: Javascript. Zahllose stunden habe ich mit NodeJS verbracht. Ob in der Webentwicklung, Discord Bots oder crossplatform Programme mit Electron, es wurde und wird mir absolut nie langweilig. Vor allem mit Frameworks wie VueJS, die einfach alles aus meinem inneren Verlangen herausholen die perfekte Software schreiben zu wollen. Unter uns Entwicklern wissen wir natürlich, dass es die "perfekte Software" nicht gibt, solange man immer weiter dran Arbeiten kann.
 
