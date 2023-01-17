@@ -17,9 +17,7 @@ My passion for coding extends beyond my professional work, as I spend my free ti
 
 ---
 
-<div>
-    <p style="float: left;">
-        <img src="https://github-profile-trophy.vercel.app/?username=slluxx&theme=onedark&row=2&column=3&margin-w=0&margin-h=0&no-bg=true&no-frame=true" alt="slluxx" />
-    </p>
-    <p style="float: right;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slluxx&langs_count=20&layout=compact&theme=transparent&hide_border=true" alt="slluxx" /></p>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=slluxx&theme=onedark&row=2&column=3&margin-w=0&margin-h=0&no-bg=true&no-frame=true" alt="slluxx" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slluxx&langs_count=20&layout=compact&theme=transparent&hide_border=true" alt="slluxx" />
+</p>
