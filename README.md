@@ -31,4 +31,4 @@ My passion for coding extends beyond my professional work, as I spend my free ti
 ```
 
 ```math
-\ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url(https://github.com/ElianCordoba/elianCordoba/blob/main/commit-history.png?raw=true); right: 0; top: 314px; left: 21px; height: 88px; width: 686px;]{x0000}$}
+\ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url(https://github.com/ElianCordoba/elianCordoba/blob/main/commit-history.png?raw=true); right: 0; top: 437px; left: 21px; height: 88px; width: 686px;]{x0000}$}
