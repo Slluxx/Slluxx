@@ -28,6 +28,7 @@ My passion for coding extends beyond my professional work, as I spend my free ti
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/Slluxx/Slluxx/assets/15162905/a544487b-a13a-4a6b-8b4a-3d521a577c83');]{x0000}$}
+```
 
 ```math
 \ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url(https://github.com/ElianCordoba/elianCordoba/blob/main/commit-history.png?raw=true); right: 0; top: 314px; left: 21px; height: 88px; width: 686px;]{x0000}$}
