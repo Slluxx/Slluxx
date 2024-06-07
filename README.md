@@ -23,4 +23,4 @@ My passion for coding extends beyond my professional work, as I spend my free ti
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://i.imgur.com/WpJUPfR.jpeg](https://github.com/Slluxx/Slluxx/assets/15162905/172b9805-fa50-40e5-b4bb-767a2c923a07)');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Slluxx/Slluxx/assets/15162905/38897095-03d1-4c71-ae90-e85c439e0b62');]{x0000}$}
