@@ -21,7 +21,7 @@ My passion for coding extends beyond my professional work, as I spend my free ti
   <img src="https://github-profile-trophy.vercel.app/?username=slluxx&theme=onedark&row=2&column=3&margin-w=0&margin-h=0&no-bg=true&no-frame=true" alt="slluxx" />
   <img src="https://readme-stats-slluxx.vercel.app/api/top-langs/?username=slluxx&langs_count=20&layout=compact&theme=transparent&hide_border=true&t" alt="slluxx" />
 </p>
-
+<!-- This was once a css injection on github, preserved here: https://web.archive.org/web/20240607200341/https://github.com/Slluxx
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Slluxx/Slluxx/assets/15162905/38897095-03d1-4c71-ae90-e85c439e0b62');]{x0000}$}
 ```
@@ -32,3 +32,4 @@ My passion for coding extends beyond my professional work, as I spend my free ti
 
 ```math
 \ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url(https://github.com/ElianCordoba/elianCordoba/blob/main/commit-history.png?raw=true); right: 0; top: 437px; left: 21px; height: 88px; width: 686px;]{x0000}$}
+-->
